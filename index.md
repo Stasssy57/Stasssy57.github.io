@@ -16,8 +16,12 @@ My GitHub page is http://github.com/Stasssy57.
 
 * Lab 5
 
-    Lab 5,
+    Lab 5, part 1 was another of my favorites because it really showed me teh basics and
+    how to use modular programming in my own code. As the first lad that had me use and
+    learn how to used static_cast for conversion of numbers. 
 
 * Lab 11 
 
-    Lab 11,
+    Lab 11, was yet another one of my favorites because it taught me how to still finish a
+    lab without direct instruction. Leaving me and my partner to learn from our own note
+    and mind to configure our own code for the function bodies. 
